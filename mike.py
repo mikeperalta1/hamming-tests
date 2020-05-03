@@ -21,7 +21,7 @@ def the_loop():
 		codeword = hamming.encode(bitarray(data_bits))
 
 		print("Original data bits:", data_bits)
-		print("Codeword:", codeword_with_overall)
+		print("Codeword:", codeword)
 		print()
 
 	print()
